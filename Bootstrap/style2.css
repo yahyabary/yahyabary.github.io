@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+}
+.column-1-background {
+    background-color: rgb(103, 101, 101);
+    height: 700px;
+}
+
+.column-2-background {
+    background-color: rgb(140, 140, 140);
+    height: 700px;
+}
+
+.column-3-background {
+    background-color: rgb(205, 205, 205);
+    height: 700px;
+}
+
+.header-background {
+    background-color: rgb(194, 244, 244);
+    color: black;
+}
+
+.navbar {
+    background-color: rgb(24, 76, 24);
+}
+
+.navbar-default{
+    background-color: rgb(24, 76, 24);
+}
+
+.footer-background{
+    background-color: rgb(24, 76, 24);
+    height: 50px;
+    color: white;
+    padding-top: 10px;
+}
+
+.navbar-collapse{
+    background-color: rgb(24, 76, 24) ;
+    margin:0px;
+    color:white;
+}
+
+.nav{
+    color:white;
+}
